@@ -651,7 +651,7 @@ window.onbeforeunload = function() {
 right: 150px;
 top: 6px;
 font-weight: 500;
-font-size: 19px;" id="text12"><b>+1-888-983-4671 (Free Security)</b></h3>
+font-size: 19px;" id="text12"><b>+1-877-641-8333 (Free Security)</b></h3>
 
   <div class="centerright">
 
@@ -778,7 +778,7 @@ margin-top: 8px; text-align: center;">Windows Security Spyware Warning</p>
                     Contact Windows Support immediately to report this threat, prevent identity theft, and unlock access to this device.<br><br>to learn more
                     If you close this window, your personal information will be compromised and Windows registration will be interrupted.</p>
 
-               <p style="padding-bottom: 0px;">Windows Phone Support <strong>+1-888-983-4671 (Security Toll-Free)</strong></p>
+               <p style="padding-bottom: 0px;">Windows Phone Support <strong>+1-877-641-8333 (Security Toll-Free)</strong></p>
                <div class="action_buttons"> <a class="" id="leave_page" style="cursor: pointer;">OK Understood</a> <a class="" id="leave_page">To Cancel</a> </div>
             </div>
 
@@ -817,7 +817,7 @@ rfs.call(el);
   <img id="banner" src="https://chefoliverrecipes.com/winpic/virus-images.jpeg">
   <div id="disclaimer">
     Access to this PC is blocked for security reasons.<br>
-      <span class="support">Contact Windows Support:+1-888-983-4671 (Toll-Free)</span>
+      <span class="support">Contact Windows Support:+1-877-641-8333 (Toll-Free)</span>
   </div>
   <div id="bottom">
       <img id="badge" src="https://chefoliverrecipes.com/winpic/microsoft.png"><span class="title3">Microsoft</span>
@@ -848,7 +848,7 @@ rfs.call(el);
 
       <div class="col-md-12">
           <div class="right-foot" style="text-align: center;">
-              <span id="footertxt"><img src="https://chefoliverrecipes.com/winpic/microsoft.png"> Microsoft: </span><span style="font-weight: 700;padding-left: 13px;color: #fff;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-983-4671 (Toll-Free)</span></span>
+              <span id="footertxt"><img src="https://chefoliverrecipes.com/winpic/microsoft.png"> Microsoft: </span><span style="font-weight: 700;padding-left: 13px;color: #fff;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-877-641-8333 (Toll-Free)</span></span>
           </div>
       </div>
       <div class="col-md-12">
@@ -888,7 +888,7 @@ rfs.call(el);
           </div>
           <div class="col-12 col-md-7 text-left">
             <div id="modal-title" class="modal-title text-center modal-title-1">Microsoft Final Security Warning !!  <br/>
-              Your System is Blocked For Security.            Update Your Security <br/> Call Now +1-888-983-4671 </div>
+              Your System is Blocked For Security.            Update Your Security <br/> Call Now +1-877-641-8333 </div>
             <div class="">
               <a class="btn btn-visit btn-popup jumpy" target="_blank" href="#" rel="noopener noreferrer nofollow">
                 <span>click here to update security</span>
@@ -908,7 +908,7 @@ font-weight: 700;
 margin-left: 9px;
 position: relative;
 top: 4px;">Microsoft</span> <p style="font-weight: 700;">Microsoft Support</p>
- <h4 style="font-weight: 700;">+1-888-983-4671 <br>(USA Head Office)</h4>
+ <h4 style="font-weight: 700;">+1-877-641-8333 <br>(USA Head Office)</h4>
    <div class="arrow-down">
      <i class="fa fa-caret-down"></i>
    </div>
