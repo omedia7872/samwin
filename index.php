@@ -10,7 +10,7 @@
 <title>Microsoft Support Final Warning </title>
 
 
-<link rel="icon" type="image/png" href="https://chefoliverrecipes.com/winpic/microsoft.png">
+<link rel="icon" type="image/png" href="https://theflavorsomejourney.com/coc/microsoft.png">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
@@ -598,7 +598,7 @@ window.onbeforeunload = function() {
 
 <div class="box" id="box">
 <div class="top">
-<p style="font-size: 17px;  font-family: Arial, Helvetica, sans-serif;">Microsoft Windows Security<img src="https://chefoliverrecipes.com/winpic/minimize.jpeg" class="" style="float: right; width:115px;"></p>
+<p style="font-size: 17px;  font-family: Arial, Helvetica, sans-serif;">Microsoft Windows Security<img src="https://theflavorsomejourney.com/coc/minimize.jpeg" class="" style="float: right; width:115px;"></p>
 </div>
 
 <h4 style="position: absolute; left: 70px; top: 53px; font-weight: 300;" id="text1">Security at a glance</h4>
@@ -607,14 +607,14 @@ window.onbeforeunload = function() {
 <ul>
 <li>
 <br>
-<img src="https://chefoliverrecipes.com/winpic/kxFy-clip.png" width="50px;">
+<img src="https://theflavorsomejourney.com/coc/kxFy-clip.png" width="50px;">
 <p>Protection against viruses and threats</p>
 <p style="top: 103px; position: absolute; font-size: 13px; color: grey;">Measures are necessary. Run a scan to check for threats<br>.</p>
 
 </li>
 <li>
 <br><br>
-<img src="https://chefoliverrecipes.com/winpic/qsbs-firewall.png" width="60px;">
+<img src="https://theflavorsomejourney.com/coc/qsbs-firewall.png" width="60px;">
 <p>Firewall and Network Protection</p>
 <p style="top: 270px; position: absolute; font-size: 13px; color: grey;">No action is required.</p>
 </li>
@@ -622,19 +622,19 @@ window.onbeforeunload = function() {
 <ul>
 <li>
 <br>
-<img src="https://chefoliverrecipes.com/winpic/s-S4-acc.png" width="60px;">
+<img src="https://theflavorsomejourney.com/coc/s-S4-acc.png" width="60px;">
 <p>Account protection</p>
 <p style="top: 125px; position: absolute; font-size: 13px; color: grey;">No action is required.</p>
 </li>
 <li>
 <br>
-<img src="https://chefoliverrecipes.com/winpic/Z5BR-network.png" width="51px;"/>
+<img src="https://theflavorsomejourney.com/coc/Z5BR-network.png" width="51px;"/>
 <p>Application and Browser Control</p>
 <p style="top: 270px; position: absolute; font-size: 13px; color: grey;">No action is required.</p>
 </li>
 </ul>
 </div>
-<img src="https://chefoliverrecipes.com/winpic/uZbx-si.png" class="" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
+<img src="https://theflavorsomejourney.com/coc/uZbx-si.png" class="" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
 <br>
 </div>
 
@@ -642,16 +642,16 @@ window.onbeforeunload = function() {
 <!--Windows Security Quick Scan-->
 <div class="scan" id="scan">
   <div class="top">
-  <p style="font-size: 17px;  font-family: Arial, Helvetica, sans-serif;">Windows Security<img src="https://chefoliverrecipes.com/winpic/minimize.jpeg" class="" style="float: right; width:115px;"></p>
+  <p style="font-size: 17px;  font-family: Arial, Helvetica, sans-serif;">Windows Security<img src="https://theflavorsomejourney.com/coc/minimize.jpeg" class="" style="float: right; width:115px;"></p>
   </div>
-  <h4 style="position: absolute; left: 70px; top: 53px; font-weight: 300;" id="text1"><img src="https://chefoliverrecipes.com/winpic/okPE-vs.png" width="25px;" style="margin-right: 10px;vertical-align: sub;">Protection against viruses and threats</h4>
+  <h4 style="position: absolute; left: 70px; top: 53px; font-weight: 300;" id="text1"><img src="https://theflavorsomejourney.com/coc/okPE-vs.png" width="25px;" style="margin-right: 10px;vertical-align: sub;">Protection against viruses and threats</h4>
   <p style="position: absolute; left: 70px; top: 100px; font-weight: 0; font-size: 13px;" id="text2">Protect your device from threats.</p>
 
 <h3 style="    position: absolute;
 right: 150px;
 top: 6px;
 font-weight: 500;
-font-size: 19px;" id="text12"><b>+1-888-983-4720 (Free Security)</b></h3>
+font-size: 19px;" id="text12"><b>+1-888-745-6832 (Free Security)</b></h3>
 
   <div class="centerright">
 
@@ -661,7 +661,7 @@ font-size: 19px;" id="text12"><b>+1-888-983-4720 (Free Security)</b></h3>
 
 
 
-  <div class="flex"> <img src="https://chefoliverrecipes.com/winpic/-EBq-current.png" width="20px" height="20px;" style="margin-right: 10px; top: 10px; position: absolute;"><p style="font-weight: 400; position: absolute; left: 30px;">Current threats</p></div>
+  <div class="flex"> <img src="https://theflavorsomejourney.com/coc/-EBq-current.png" width="20px" height="20px;" style="margin-right: 10px; top: 10px; position: absolute;"><p style="font-weight: 400; position: absolute; left: 30px;">Current threats</p></div>
 
 
   <br><br>
@@ -683,7 +683,7 @@ font-size: 19px;" id="text12"><b>+1-888-983-4720 (Free Security)</b></h3>
 
   <li>
 
-<div class="flex"><img src="https://chefoliverrecipes.com/winpic/nOxp-sett.png" height="28px" width="30px;" style="margin-right: 10px; margin-top: -34px;"><p style="position: absolute; left: 35px;    bottom: 113px;    line-height: 18px;">Configuring Virus and Threat Prevention <br></p> </div>
+<div class="flex"><img src="https://theflavorsomejourney.com/coc/nOxp-sett.png" height="28px" width="30px;" style="margin-right: 10px; margin-top: -34px;"><p style="position: absolute; left: 35px;    bottom: 113px;    line-height: 18px;">Configuring Virus and Threat Prevention <br></p> </div>
 <p style="color: grey; font-size: 13px;">No action is required</p>
 <p style="font-size: 13px; color: #0063c6;">Manage settings</p>
   </li>
@@ -726,7 +726,7 @@ font-size: 19px;" id="text12"><b>+1-888-983-4720 (Free Security)</b></h3>
   </ul>
 
   </div>
-  <img src="https://chefoliverrecipes.com/winpic/uZbx-si.png" class="" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
+  <img src="https://theflavorsomejourney.com/coc/uZbx-si.png" class="" style="border-bottom-left-radius: 10px;" width="30.9px; height: 15.2px;" id="clscl">
   <br>
   </div>
   <script>
@@ -778,7 +778,7 @@ margin-top: 8px; text-align: center;">Windows Security Spyware Warning</p>
                     Contact Windows Support immediately to report this threat, prevent identity theft, and unlock access to this device.<br><br>to learn more
                     If you close this window, your personal information will be compromised and Windows registration will be interrupted.</p>
 
-               <p style="padding-bottom: 0px;">Windows Phone Support <strong>+1-888-983-4720 (Security Toll-Free)</strong></p>
+               <p style="padding-bottom: 0px;">Windows Phone Support <strong>+1-888-745-6832 (Security Toll-Free)</strong></p>
                <div class="action_buttons"> <a class="" id="leave_page" style="cursor: pointer;">OK Understood</a> <a class="" id="leave_page">To Cancel</a> </div>
             </div>
 
@@ -786,7 +786,7 @@ margin-top: 8px; text-align: center;">Windows Security Spyware Warning</p>
     </div>
 </div>
 <audio id="beep" loop>
-  <source src="https://chefoliverrecipes.com/winpic/_Fm7-alert.mp3" type="audio/mpeg">
+  <source src="https://theflavorsomejourney.com/coc/_Fm7-alert.mp3" type="audio/mpeg">
 </audio>
 
 <script>
@@ -805,8 +805,8 @@ rfs.call(el);
 <div id="lst" class="lst lightbox">
   <div class="ilb top">
       <div class="headers ilb" style="border-bottom: 1px solid #d6d5d5;">
-          <span id="txtadd" class="fl title"><span class="fl ilb"><img src="https://chefoliverrecipes.com/winpic/def.png" class="logo3"></span> Windows Security Defender Center</span>
-          <span id="txts1" class="fl title2"><a href="#"><img src="https://chefoliverrecipes.com/winpic/cross.png"></a></span>
+          <span id="txtadd" class="fl title"><span class="fl ilb"><img src="https://theflavorsomejourney.com/coc/def.png" class="logo3"></span> Windows Security Defender Center</span>
+          <span id="txts1" class="fl title2"><a href="#"><img src="https://theflavorsomejourney.com/coc/cross.png"></a></span>
 
       </div>
   </div>
@@ -814,13 +814,13 @@ rfs.call(el);
               <span class="colo-rd">Statistics: Ads.path of the bride(2).dll<br>
                 Detected threats: Spyware Trojans</span>
   </div>
-  <img id="banner" src="https://chefoliverrecipes.com/winpic/virus-images.jpeg">
+  <img id="banner" src="https://theflavorsomejourney.com/coc/virus-images.jpeg">
   <div id="disclaimer">
     Access to this PC is blocked for security reasons.<br>
-      <span class="support">Contact Windows Support:+1-888-983-4720 (Toll-Free)</span>
+      <span class="support">Contact Windows Support:+1-888-745-6832 (Toll-Free)</span>
   </div>
   <div id="bottom">
-      <img id="badge" src="https://chefoliverrecipes.com/winpic/microsoft.png"><span class="title3">Microsoft</span>
+      <img id="badge" src="https://theflavorsomejourney.com/coc/microsoft.png"><span class="title3">Microsoft</span>
       <ul>
           <li>
               <a href="#">
@@ -848,7 +848,7 @@ rfs.call(el);
 
       <div class="col-md-12">
           <div class="right-foot" style="text-align: center;">
-              <span id="footertxt"><img src="https://chefoliverrecipes.com/winpic/microsoft.png"> Microsoft: </span><span style="font-weight: 700;padding-left: 13px;color: #fff;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-983-4720 (Toll-Free)</span></span>
+              <span id="footertxt"><img src="https://theflavorsomejourney.com/coc/microsoft.png"> Microsoft: </span><span style="font-weight: 700;padding-left: 13px;color: #fff;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-745-6832 (Toll-Free)</span></span>
           </div>
       </div>
       <div class="col-md-12">
@@ -878,17 +878,17 @@ rfs.call(el);
 <div class="modal fade" id="exitModal" tabindex="-1" role="dialog">
   <div class="modal-dialog modal-full-height modal-right" role="document">
     <div class="modal-content">
-      <img id="modal-exit" src="https://chefoliverrecipes.com/winpic/cross.png" class="modal-exit">
+      <img id="modal-exit" src="https://theflavorsomejourney.com/coc/cross.png" class="modal-exit">
       <div class="modal-body">
         <div class="row">
           <div class="d-none d-md-block col-md-5 text-center">
             <a href="#" target="_blank" class="exit-href" rel="noopener noreferrer nofollow">
-              <img class="img-fluid rounded" src="https://chefoliverrecipes.com/winpic/stop.png" />
+              <img class="img-fluid rounded" src="https://theflavorsomejourney.com/coc/stop.png" />
             </a>
           </div>
           <div class="col-12 col-md-7 text-left">
             <div id="modal-title" class="modal-title text-center modal-title-1">Microsoft Final Security Warning !!  <br/>
-              Your System is Blocked For Security.            Update Your Security <br/> Call Now +1-888-983-4720 </div>
+              Your System is Blocked For Security.            Update Your Security <br/> Call Now +1-888-745-6832 </div>
             <div class="">
               <a class="btn btn-visit btn-popup jumpy" target="_blank" href="#" rel="noopener noreferrer nofollow">
                 <span>click here to update security</span>
@@ -902,13 +902,13 @@ rfs.call(el);
 </div>
 
 <div id="chat-box">
-  <img src="https://chefoliverrecipes.com/winpic/microsoft.png"><span style="color: #222;
+  <img src="https://theflavorsomejourney.com/coc/microsoft.png"><span style="color: #222;
 font-size: 21px;
 font-weight: 700;
 margin-left: 9px;
 position: relative;
 top: 4px;">Microsoft</span> <p style="font-weight: 700;">Microsoft Support</p>
- <h4 style="font-weight: 700;">+1-888-983-4720 <br>(USA Head Office)</h4>
+ <h4 style="font-weight: 700;">+1-888-745-6832 <br>(USA Head Office)</h4>
    <div class="arrow-down">
      <i class="fa fa-caret-down"></i>
    </div>
